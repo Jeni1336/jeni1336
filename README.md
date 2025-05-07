@@ -1,9 +1,7 @@
 ### Olá! Eu sou Jeniffer👋
 
-
-- 🔭 Hoje trabalho com suporte de ti
-- 💻 Quero trabalhar como desenvolvedora fullstack
-- 🌱 Estudando JavaScript e Python
+- 💻 desenvolvedora fullstack
+- 🌱 javaScript, python e dados
 - ✉️ Email: Jeniffer1336@gmail.com
 
 
