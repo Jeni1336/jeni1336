@@ -1,8 +1,8 @@
 ### Olá! Eu sou Jeniffer👋
 
 - 💻 desenvolvedora fullstack
-- 🌱 javaScript, python e dados
-- ✉️ Email: Jeniffer1336@gmail.com
+- 🌱 javascript, python e dados
+- ✉️ email: Jeniffer1336@gmail.com
 
 
 <div style="display: inline_block"><br>
