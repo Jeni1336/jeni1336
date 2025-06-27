@@ -1,9 +1,8 @@
-### Olá! Eu sou Jeniffer👋
+### Hello! I'm Jeniffer👋
 
-- 💻 desenvolvedora fullstack
-- 🌱 javascript, python e dados
+- 💻 fullstack developer
+- 🌱 javascript and php
 - ✉️ email: Jeniffer1336@gmail.com
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
